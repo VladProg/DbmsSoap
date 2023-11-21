@@ -1,0 +1,17 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:8000/?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Collections.ArrayList",
+      "System.Collections.Generic.SortedDictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, DbmsSoapServiceReference"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}
